@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409130512299",
+    "project_id": "oscar-firebase",
+    "storage_bucket": "oscar-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409130512299:android:c9dea08f7cd0261a50ecee",
+        "android_client_info": {
+          "package_name": "com.oscar.vision.rutvikfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409130512299-a57ndm8uegij1f7o45i7bnhej67uesq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi-sQNvslMR1uXuPkQRGW_8y4wZF69kb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409130512299-a57ndm8uegij1f7o45i7bnhej67uesq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
